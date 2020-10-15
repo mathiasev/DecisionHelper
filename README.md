@@ -1,4 +1,5 @@
 # decisions
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a55a2c18-f2c3-400b-a1c6-62d1933081ce/deploy-status)](https://app.netlify.com/sites/decision-helper/deploys)
 
 Decision Helper
 

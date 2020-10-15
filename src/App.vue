@@ -148,7 +148,7 @@ textarea {
 input:focus,
 textarea:focus {
   opacity: 1;
-  border-color: #2c3e50;npm 
+  border-color: #2c3e50;
   padding: 1em 2em;
 }
 main,
