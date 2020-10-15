@@ -140,15 +140,15 @@ input,
 textarea {
   padding: 0.5em 1em;
   width: 100%;
-  opacity: 60%;
+  opacity: 0.4;
   border-color: #4d4d4d7e;
   border: 1px solid;
-  transition: padding opacity cubic-bezier(0.075, 0.82, 0.165, 1) 0.8s;
+  transition: padding, opacity cubic-bezier(0.075, 0.82, 0.165, 1) 0.8s;
 }
 input:focus,
 textarea:focus {
-  opacity: 100%;
-  border-color: #2c3e50;
+  opacity: 1;
+  border-color: #2c3e50;npm 
   padding: 1em 2em;
 }
 main,
